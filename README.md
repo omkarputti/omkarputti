@@ -24,53 +24,79 @@
 
 ### 💻 Tech Stack
 
-#### 🚀 Languages & Frameworks
+#### 🔐 Cybersecurity & Networking
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
-#### 🧠 AI/ML & Security Tools
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=blue)
 ![Nmap](https://img.shields.io/badge/Nmap-005C9C?style=for-the-badge&logo=nmap&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=blue)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
 </div>
 
-#### 🛢️ Databases & Dev Tools
+#### 🐧 Linux & Scripting
 <div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
+#### 🛡️ SOC & Monitoring
 <div align="center">
 
-<a href="https://github.com/OmkarPutti">
-  <img src="https://streak-stats.demolab.com?user=OmkarPutti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
-<br/>
-<a href="https://github.com/OmkarPutti">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarPutti&show_icons=true&theme=radical&hide_border=true"/>
-</a>
-<br/>
-<a href="https://github.com/OmkarPutti">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarPutti&layout=compact&theme=radical&hide_border=true"/>
-</a>
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0061A5?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Syslog](https://img.shields.io/badge/Syslog-FFCC00?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-CC0000?style=for-the-badge)
+
+</div>
+
+#### 🤖 AI/ML in Security
+<div align="center">
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
+
+#### ⚛️ Quantum & Post-Quantum
+<div align="center">
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PQCrypto](https://img.shields.io/badge/PQCrypto-FF5733?style=for-the-badge)
+
+</div>
+
+#### 🌐 Blockchain Security
+<div align="center">
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-25383C?style=for-the-badge)
+
+</div>
+
+#### 🏗️ Programming & Core CS
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
