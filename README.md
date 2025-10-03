@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Mechanical Engineering undergrad passionate about Cybersecurity**
+- 🎓 **Engineering undergrad passionate about Cybersecurity**
 - 🔐 Exploring **AI-powered security tools, anomaly detection & threat modeling**
 - 🌐 Strong foundation in **Networking (TCP/IP, OSI Model, VLANs, Firewalls)**
 - 📡 Skilled in **Wireshark (Traffic Capture & Analysis)**
@@ -18,7 +18,7 @@
 - ⚛️ Curious about **Quantum technologies & Post-Quantum Cryptography**
 - 🤖 Integrating **AI/ML with Security** for innovative & robust solutions
 - 🏆 Thrive in **hackathons & research-driven projects** — love to collaborate & prototype
-- 🌱 Currently learning **DSA in C++**, **Blockchain Security**, & **AI in Cyber Defense**
+- 🌱 Currently learning **pentesting tools : Burpsuite, Nmap and Metasploit**
 
 ---
 
@@ -28,8 +28,6 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
@@ -39,7 +37,6 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=blue)
 ![Nmap](https://img.shields.io/badge/Nmap-005C9C?style=for-the-badge&logo=nmap&logoColor=white)
@@ -54,7 +51,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
