@@ -1,19 +1,23 @@
 <h1 align="center">Hey there! 👋 I'm Omkar</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🤖 AI/ML Explorer | ⚛️ Quantum Tech Learner</h3>
+<h3 align="center">🔐 Cybersecurity Explorer | 🤖 AI/ML Innovator | ⚛️ Quantum Tech Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Passionate+about+Cybersecurity;AI+%2B+ML+for+Secure+Systems;Exploring+Quantum+Technologies;Always+Learning+%26+Building;❤️Hackathons+%26+Research+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Passionate+about+Cybersecurity;AI+%2B+ML+for+Secure+Systems;Exploring+Quantum+Technologies;Always+Learning+%26+Building;❤️Hackathons+%26+Research+Projects"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Mechanical Engineering undergrad passionate about **Cybersecurity**
-- 🔐 Exploring **AI-powered security tools**, anomaly detection & threat modeling
-- ⚛️ Curious about **Quantum technologies** & **Post-Quantum Cryptography**
+- 🎓 **Mechanical Engineering undergrad passionate about Cybersecurity**
+- 🔐 Exploring **AI-powered security tools, anomaly detection & threat modeling**
+- 🌐 Strong foundation in **Networking (TCP/IP, OSI Model, VLANs, Firewalls)**
+- 📡 Skilled in **Wireshark (Traffic Capture & Analysis)**
+- 🐧 Proficient in **Linux Administration & Bash Scripting**
+- 🛡️ Familiar with **SOC Fundamentals (SIEM, Log Monitoring, Incident Response)**
+- ⚛️ Curious about **Quantum technologies & Post-Quantum Cryptography**
 - 🤖 Integrating **AI/ML with Security** for innovative & robust solutions
-- 🏆 Thrive in **hackathons** & **research-driven projects** — love to collaborate & prototype
+- 🏆 Thrive in **hackathons & research-driven projects** — love to collaborate & prototype
 - 🌱 Currently learning **DSA in C++**, **Blockchain Security**, & **AI in Cyber Defense**
 
 ---
@@ -35,9 +39,11 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-272822?style=for-the-badge&logo=metasploit&logoColor=blue)
+![Nmap](https://img.shields.io/badge/Nmap-005C9C?style=for-the-badge&logo=nmap&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>
 
