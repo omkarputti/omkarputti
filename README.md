@@ -88,8 +88,8 @@
 
 ### 🚀 Highlight Projects
 
-- 🩺 **SheCares** → Women's health & safety app (health tracking, SOS alerts, AI insights).
-- 🏥 **SimHealth** → Low-cost OPD scanning & diagnostics prototype (Raspberry Pi + camera input, automated patient report generation, ML-assisted diagnostics).
+- <a href="https://github.com/omkarputti/SIMHEALTH">🩺 **SheCares** → Women's health & safety app (health tracking, SOS alerts, AI insights).</a>
+- <a href="https://github.com/omkarputti/SHECARES">🏥 **SimHealth** → Low-cost OPD scanning & diagnostics prototype (Raspberry Pi + camera input, automated patient report generation, ML-assisted diagnostics).</a>
 
 ---
 
