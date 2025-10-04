@@ -86,18 +86,38 @@
 
 ---
 
+### 🚀 Highlight Projects
+
+- 🩺 **SheCares** → Women's health & safety app (health tracking, SOS alerts, AI insights).
+- 🏥 **SimHealth** → Low-cost OPD scanning & diagnostics prototype (Raspberry Pi + camera input, automated patient report generation, ML-assisted diagnostics).
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/omkarputti">
+  <img src="https://streak-stats.demolab.com?user=Sambhaji-Patil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</a>
+<br/>
+<a href="https://github.com/omkarputti">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambhaji-Patil&show_icons=true&theme=radical&hide_border=true"/>
+</a>
+<br/>
+<a href="https://github.com/omkarputti">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhaji-Patil&layout=compact&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OmkarPutti&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" />
 </p>
-
----
-
-### 🚀 Highlight Projects
-
-- 🩺 **SheCares** → Women's health & safety app (health tracking, SOS alerts, AI insights).
-- 🏥 **SimHealth** → Low-cost OPD scanning & diagnostics prototype (Raspberry Pi + camera input, automated patient report generation, ML-assisted diagnostics).
 
 ---
 
