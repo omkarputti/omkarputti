@@ -98,15 +98,15 @@
 <div align="center">
 
 <a href="https://github.com/omkarputti">
-  <img src="https://streak-stats.demolab.com?user=Sambhaji-Patil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=omkarputti&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
 <br/>
 <a href="https://github.com/omkarputti">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambhaji-Patil&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarputti&show_icons=true&theme=radical&hide_border=true"/>
 </a>
 <br/>
 <a href="https://github.com/omkarputti">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhaji-Patil&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarputti&layout=compact&theme=radical&hide_border=true"/>
 </a>
 
 </div>
