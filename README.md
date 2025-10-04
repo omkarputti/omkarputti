@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Omkar</h1>
-<h3 align="center">🔐 Cybersecurity Explorer | 🤖 AI/ML Innovator | ⚛️ Quantum Tech Learner</h3>
+<h3 align="center">🛡️ Cybersecurity Enthusaist </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Passionate+about+Cybersecurity;AI+%2B+ML+for+Secure+Systems;Exploring+Quantum+Technologies;Always+Learning+%26+Building;❤️Hackathons+%26+Research+Projects"/>
@@ -96,21 +96,16 @@
 
 ### 🚀 Highlight Projects
 
-- 🛡️ **AI Malware Detector** → ML-powered tool to classify malicious files  
-- 💸 **Rug-Pull Detector** → Detects suspicious on-chain liquidity pool movements  
-- 🌐 **Network Anomaly Detector** → Real-time traffic monitoring & anomaly detection  
-- ⚛️ **Post-Quantum Crypto PoC** → Secure key exchange with PQ algorithms  
-- 🔭 **Hackathon Projects** → From cybersecurity bots to AI workflow agents  
-
-👉 *(Check pinned repos below for details with demo GIFs & READMEs!)*
+- 🩺 **SheCares** → Women's health & safety app (health tracking, SOS alerts, AI insights).
+- 🏥 **SimHealth** → Low-cost OPD scanning & diagnostics prototype (Raspberry Pi + camera input, automated patient report generation, ML-assisted diagnostics).
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="omkarputti@zohomail.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/omkarputti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
