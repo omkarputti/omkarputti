@@ -15,7 +15,6 @@
 - 📡 Skilled in **Wireshark (Traffic Capture & Analysis)**
 - 🐧 Proficient in **Linux Administration & Bash Scripting**
 - 🛡️ Familiar with **SOC Fundamentals (SIEM, Log Monitoring, Incident Response)**
-- ⚛️ Curious about **Quantum technologies & Post-Quantum Cryptography**
 - 🤖 Integrating **AI/ML with Security** for innovative & robust solutions
 - 🏆 Thrive in **hackathons & research-driven projects** — love to collaborate & prototype
 - 🌱 Currently learning **pentesting tools : Burpsuite, Nmap and Metasploit**
@@ -64,14 +63,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-</div>
-
-#### ⚛️ Quantum & Post-Quantum
-<div align="center">
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PQCrypto](https://img.shields.io/badge/PQCrypto-FF5733?style=for-the-badge)
 
 </div>
 
