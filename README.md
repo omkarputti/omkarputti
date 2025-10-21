@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Cybersecurity Enthusaist </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Passionate+about+Cybersecurity;AI+%2B+ML+for+Secure+Systems;Exploring+Quantum+Technologies;Always+Learning+%26+Building;❤️Hackathons+%26+Research+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Passionate+about+Cybersecurity;AI+%2B+ML+for+Secure+Systems;Always+Learning+%26+Building;❤️Hackathons+%26+Research+Projects"/>
 </p>
 
 ---
