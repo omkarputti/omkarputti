@@ -2,7 +2,7 @@
 <h3 align="center">Building Autonomous Systems • Robotics • Simulation</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Robotics+%7C+Autonomous+Systems+Builder;Simulation+%7C+AI+%7C+Computer+Vision;Hackathons+%26+DeepTech+Projects;Future+Startup+Founder;Engineering+Ideas+into+Reality"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Robotics+%7C+Autonomous+Systems+Builder;Simulation+%7C+Computer+Vision;Hackathons+%26+DeepTech+Projects"/>
 </p>
 
 ---
