@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Omkar Putti</h1>
-<h3 align="center">Building Autonomous Systems • Robotics • AI Engineering</h3>
+<h3 align="center">Building Autonomous Systems • Robotics • Simulation</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Robotics+%7C+Autonomous+Systems+Builder;Simulation+%7C+AI+%7C+Computer+Vision;Hackathons+%26+DeepTech+Projects;Future+Startup+Founder;Engineering+Ideas+into+Reality"/>
@@ -14,12 +14,10 @@
 I work at the intersection of:
 
 - 🤖 **Robotics & Autonomous Systems**
-- 🧠 **AI / Machine Learning**
+- 🧠 **Reinforcement Learning**
 - 🎮 **Simulation & Digital Prototyping**
 - 🛰️ **Navigation in GPS-denied environments**
-- 🔐 **Cybersecurity & Secure Systems**
-
-I love building **prototype systems that combine hardware + AI + software**.
+  
 
 Current focus areas:
 
@@ -27,7 +25,7 @@ Current focus areas:
 - Visual navigation systems
 - AI-powered robotics perception
 - Vehicle dynamics & simulation
-- Building deep-tech projects for hackathons and startups
+- Building deep-tech projects for hackathons 
 
 ---
 
@@ -70,18 +68,7 @@ Current focus areas:
 
 </p>
 
----
 
-### 🐧 Systems & Security
-
-<p align="center">
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali](https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-darkblue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-lightblue?style=for-the-badge)
-
-</p>
 
 ---
 
@@ -113,30 +100,6 @@ Focus areas:
 
 ---
 
-### 🧠 AI Security Systems
-
-Exploring **AI for anomaly detection and cybersecurity automation**
-
-- Traffic analysis
-- Threat detection
-- ML-based security tools
-
----
-
-# 🏆 Mission
-
-I want to build **deep-tech systems that combine**
-
-- robotics
-- artificial intelligence
-- autonomous navigation
-- secure systems
-
-Long term goal:
-
-**build a startup developing intelligent autonomous machines**
-
----
 
 # 📊 GitHub Stats
 
