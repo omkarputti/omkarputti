@@ -1,26 +1,27 @@
-# Omkar Putti
+<h1 align="center">Omkar Putti</h1>
+<p align="center"><strong>Robotics · Simulation · Control Systems</strong></p>
 
-**Robotics · Simulation · Control Systems**
-
-> Building robotic systems through simulation, control, and iterative debugging.
+<p align="center">
+Building robotic systems through simulation, control, and iterative debugging.
+</p>
 
 ---
 
 ## About Me
 
-I'm a robotics engineer focused on bridging the gap between simulation and real-world robot execution. My work spans manipulator control, perception-driven pipelines, and environment setup for reproducible robotics development.
+I focus on bridging the gap between simulation and real-world robotic execution. My work revolves around manipulators, perception-driven pipelines, and building reproducible robotics environments.
 
-- Working on robot manipulators and simulation pipelines
-- Primary stack: ROS 2, MuJoCo, MATLAB-based control setups
-- Interested in end-to-end Perception → Planning → Execution loops
-- Strong focus on hands-on debugging and systematic failure analysis
+- Working on robot manipulators and simulation pipelines  
+- Stack: ROS 2, MuJoCo, MATLAB-based control systems  
+- Focused on Perception → Planning → Execution pipelines  
+- Strong emphasis on debugging and failure analysis  
 
 ---
 
 ## Hackathon Achievements
 
 | Event | Location | Result | Prize |
-|---|---|---|---|
+|------|--------|--------|------|
 | National Level Hackathon | Chikkodi | 2nd Place | ₹25,000 |
 | National Level Hackathon | Ballary | 2nd Place | ₹15,000 |
 | VTU Hackathon | Belagavi | 3rd Place | — |
@@ -30,91 +31,74 @@ I'm a robotics engineer focused on bridging the gap between simulation and real-
 ## Projects
 
 ### LeRobot MuJoCo Pick & Place (SmolVLM)
-Simulated pick-and-place pipeline using LeRobot + MuJoCo with SmolVLM for perception-driven object interaction and manipulation inside simulation.
-
-`MuJoCo` `LeRobot` `Python` `Vision-Language Models`
+Simulated pick-and-place pipeline using LeRobot + MuJoCo with SmolVLM for perception-driven manipulation.
 
 ---
 
 ### UR5e Pick & Place with Colour Sorting (MATLAB)
-Implemented pick-and-place using the UR5e robot model in MATLAB, sorting objects by color with a focus on motion execution and task logic.
-
-`MATLAB` `Robotics Toolbox`
+Implemented pick-and-place using UR5e in MATLAB with color-based object sorting and motion execution.
 
 ---
 
 ### Robot Simulation & Visualization (ROS 2)
-Set up a robot using URDF, visualized and debugged joint behavior in RViz, and developed a solid understanding of robot structure and kinematics.
-
-`ROS 2` `URDF` `RViz`
+Built URDF models, visualized in RViz, and debugged joint behavior and kinematics.
 
 ---
 
 ### Pick & Place Pipeline (ROS 2)
-Built a basic Detect → Plan → Execute pipeline. Identified incomplete workspace scanning as a key limitation and actively working on improving coverage.
-
-`ROS 2` `Computer Vision` `Motion Planning`
+Developed Detect → Plan → Execute pipeline. Identified workspace coverage gaps and working on structured scanning.
 
 ---
 
 ### Workspace Scanning Exploration
-Tested naive movement strategies for workspace coverage. Observed blind spots and missed regions, and moving toward structured scanning approaches.
-
-`Coverage Planning`
+Tested naive scanning strategies, observed blind spots, and moving toward systematic coverage planning.
 
 ---
 
 ### Docker-Based Robotics Setup
-Configured full robotics development environments inside Docker, including GPU runtime setup and container storage management.
-
-`Docker` `Linux` `NVIDIA Runtime`
-
----
-
-## Demo
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1kThmXz0Tqy8LL8TvBwr9ySqtgZsw9DNN/view?usp=drive_link">
-    <img src="https://github.com/omkarputti/Opencontrol/raw/main/SmolVLA.png" alt="Watch Demo" width="800"/>
-  </a>
-  <br/>
-  <em>Click to watch the demo</em>
-</p>
+Configured full robotics environments with GPU runtime and containerized workflows.
 
 ---
 
 ## Tech Stack
 
-**Robotics:** ROS 2 · URDF · RViz · MuJoCo · MATLAB
+### Robotics
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/URDF-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RViz-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF5733?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+</p>
 
-**Programming:** Python · C++
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-**Tools:** Docker · Linux · Git · VS Code
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-**Concepts:** Motion Planning · Robot Control · Simulation Pipelines · Debugging
-
----
-
-## Current Focus
-
-- Improving workspace scanning to eliminate blind spots
-- Building reliable and repeatable pick-and-place pipelines
-- Systematic analysis of failure points in robotic systems
-- End-to-end pipeline: **Perception → Planning → Execution**
+### Concepts
+Motion Planning · Robot Control · Simulation Pipelines · Debugging
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarputti&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarputti&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarputti&theme=tokyonight" />
 </p>
 
 ---
 
 ## Connect
 
-- [LinkedIn](#) — *[add your link](https://www.linkedin.com/in/omkarputti/)*
-- [Email](#) — *omkarmaheshputti@gmail.com*
+- LinkedIn: https://www.linkedin.com/in/omkarputti/  
+- Email: omkarmaheshputti@gmail.com
