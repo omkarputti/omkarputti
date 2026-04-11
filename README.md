@@ -1,140 +1,120 @@
-<h1 align="center">Hi 👋 I'm Omkar Putti</h1>
-<h3 align="center">Building Autonomous Systems • Robotics • Simulation</h3>
+# Omkar Putti
+
+**Robotics · Simulation · Control Systems**
+
+> Building robotic systems through simulation, control, and iterative debugging.
+
+---
+
+## About Me
+
+I'm a robotics engineer focused on bridging the gap between simulation and real-world robot execution. My work spans manipulator control, perception-driven pipelines, and environment setup for reproducible robotics development.
+
+- Working on robot manipulators and simulation pipelines
+- Primary stack: ROS 2, MuJoCo, MATLAB-based control setups
+- Interested in end-to-end Perception → Planning → Execution loops
+- Strong focus on hands-on debugging and systematic failure analysis
+
+---
+
+## Hackathon Achievements
+
+| Event | Location | Result | Prize |
+|---|---|---|---|
+| National Level Hackathon | Chikkodi | 2nd Place | ₹25,000 |
+| National Level Hackathon | Ballary | 2nd Place | ₹15,000 |
+| VTU Hackathon | Belagavi | 3rd Place | — |
+
+---
+
+## Projects
+
+### LeRobot MuJoCo Pick & Place (SmolVLM)
+Simulated pick-and-place pipeline using LeRobot + MuJoCo with SmolVLM for perception-driven object interaction and manipulation inside simulation.
+
+`MuJoCo` `LeRobot` `Python` `Vision-Language Models`
+
+---
+
+### UR5e Pick & Place with Colour Sorting (MATLAB)
+Implemented pick-and-place using the UR5e robot model in MATLAB, sorting objects by color with a focus on motion execution and task logic.
+
+`MATLAB` `Robotics Toolbox`
+
+---
+
+### Robot Simulation & Visualization (ROS 2)
+Set up a robot using URDF, visualized and debugged joint behavior in RViz, and developed a solid understanding of robot structure and kinematics.
+
+`ROS 2` `URDF` `RViz`
+
+---
+
+### Pick & Place Pipeline (ROS 2)
+Built a basic Detect → Plan → Execute pipeline. Identified incomplete workspace scanning as a key limitation and actively working on improving coverage.
+
+`ROS 2` `Computer Vision` `Motion Planning`
+
+---
+
+### Workspace Scanning Exploration
+Tested naive movement strategies for workspace coverage. Observed blind spots and missed regions, and moving toward structured scanning approaches.
+
+`Coverage Planning`
+
+---
+
+### Docker-Based Robotics Setup
+Configured full robotics development environments inside Docker, including GPU runtime setup and container storage management.
+
+`Docker` `Linux` `NVIDIA Runtime`
+
+---
+
+## Demo
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Robotics+%7C+Autonomous+Systems+Builder;Simulation+%7C+Computer+Vision;Hackathons+%26+DeepTech+Projects"/>
+  <a href="https://drive.google.com/file/d/1kThmXz0Tqy8LL8TvBwr9ySqtgZsw9DNN/view?usp=drive_link">
+    <img src="https://github.com/omkarputti/Opencontrol/raw/main/SmolVLA.png" alt="Watch Demo" width="800"/>
+  </a>
+  <br/>
+  <em>Click to watch the demo</em>
 </p>
 
 ---
 
-# 🧠 About Me
+## Tech Stack
 
-🚀 Engineering student passionate about **building intelligent machines**
+**Robotics:** ROS 2 · URDF · RViz · MuJoCo · MATLAB
 
-I work at the intersection of:
+**Programming:** Python · C++
 
-- 🤖 **Robotics & Autonomous Systems**
-- 🧠 **Reinforcement Learning**
-- 🎮 **Simulation & Digital Prototyping**
-- 🛰️ **Navigation in GPS-denied environments**
-  
+**Tools:** Docker · Linux · Git · VS Code
 
-Current focus areas:
-
-- Autonomous robotics
-- Visual navigation systems
-- AI-powered robotics perception
-- Vehicle dynamics & simulation
-- Building deep-tech projects for hackathons 
+**Concepts:** Motion Planning · Robot Control · Simulation Pipelines · Debugging
 
 ---
 
-# ⚙️ Tech Stack
+## Current Focus
 
-### 🤖 Robotics & Simulation
+- Improving workspace scanning to eliminate blind spots
+- Building reliable and repeatable pick-and-place pipelines
+- Systematic analysis of failure points in robotic systems
+- End-to-end pipeline: **Perception → Planning → Execution**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks)
-![Simulink](https://img.shields.io/badge/Simulink-red?style=for-the-badge&logo=Mathworks)
-![ROS](https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ros)
-![Gazebo](https://img.shields.io/badge/Gazebo-darkblue?style=for-the-badge)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarputti&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarputti&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🧠 AI / Machine Learning
+## Connect
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-
-</p>
-
----
-
-### 🛰️ Autonomous Navigation
-
-<p align="center">
-
-![SLAM](https://img.shields.io/badge/SLAM-grey?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/ComputerVision-purple?style=for-the-badge)
-![Sensor Fusion](https://img.shields.io/badge/SensorFusion-blue?style=for-the-badge)
-![IMU](https://img.shields.io/badge/IMU-orange?style=for-the-badge)
-
-</p>
-
-
-
----
-
-# 🚀 Current Projects
-
-### 🛰️ ATLAS
-Autonomous rover prototype for **navigation in GPS-denied environments**
-
-Features:
-
-- Visual navigation
-- IMU sensor fusion
-- Obstacle detection
-- Telemetry dashboard
-- Semi-autonomous navigation
-
----
-
-### 🤖 RoboCup ARM Challenge
-
-Working on **robotic manipulation algorithms**
-
-Focus areas:
-
-- Motion planning
-- Pick-and-place automation
-- Robot kinematics
-- Simulation testing
-
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omkarputti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarputti&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=omkarputti&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:omkarputti@zohomail.in">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omkarputti">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=OmkarPutti&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
----
-
-⭐ *“Build things that shouldn't exist yet.”*
+- [LinkedIn](#) — *[add your link](https://www.linkedin.com/in/omkarputti/)*
+- [Email](#) — *omkarmaheshputti@gmail.com*
