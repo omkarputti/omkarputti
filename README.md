@@ -12,10 +12,9 @@ Building autonomous robotic systems through simulation, perception, optimization
 ### Robotics
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/URDF-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RViz-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MATLAB-FF5733?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAD-00599C?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
 ### Programming
@@ -29,6 +28,8 @@ Building autonomous robotic systems through simulation, perception, optimization
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
 ---
